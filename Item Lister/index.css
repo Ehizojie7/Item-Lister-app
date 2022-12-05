@@ -1,0 +1,22 @@
+.form-control{
+    width: 50%;
+    margin-left: 10px;
+}
+
+.form-inline{
+    display: flex;
+}
+
+.btn{
+margin-left: 20px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+width: auto;
+}
+
+.card{
+    width: auto;
+}
+
+.btn1{
+    float: right;
+}
